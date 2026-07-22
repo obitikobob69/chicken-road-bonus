@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://chicken-road-bonus.pages.dev/sitemap.xml
+Sitemap: https://chicken-road-bonus-d7g.pages.dev/sitemap.xml
